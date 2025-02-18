@@ -2,7 +2,7 @@
 
 ## Repository
 
-Repositori publik untuk proyek ini tersedia di: [GitHub - NamaRepo](https://github.com/username/NamaRepo)
+Repositori publik untuk proyek ini tersedia di: [test-ordo](https://github.com/galang-afk/test-ordo)
 
 ## Instalasi dan Setup
 
@@ -17,8 +17,8 @@ Repositori publik untuk proyek ini tersedia di: [GitHub - NamaRepo](https://gith
 
 1. Clone repositori:
    ```sh
-   git clone https://github.com/username/NamaRepo.git
-   cd NamaRepo
+   git clone git@github.com:galang-afk/test-ordo.git
+   cd test-ordo
    ```
 2. Instal dependensi dengan Composer:
    ```sh
